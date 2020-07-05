@@ -1,4 +1,4 @@
-That time that 80,000 people tried to levitiate the Pentagon
+# That time that 80,000 people tried to levitiate the Pentagon
 
 This was part of a 1 week video challenge that I did with my friend, BattleAnimation. The challenge entailed:
    - 1 week to make and publish the entire video, starting on Sunday, June 28 and ending on Sunday, July 5
