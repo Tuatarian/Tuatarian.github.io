@@ -1,11 +1,56 @@
-# That time that 80,000 people tried to levitiate the Pentagon
+# [Tailwind Toolbox](https://www.tailwindtoolbox.com/) - [Landing Page Template](https://www.tailwindtoolbox.com/templates/landing-page)
 
-This was part of a 1 week video challenge that I did with my friend, BattleAnimation. The challenge entailed:
-   - 1 week to make and publish the entire video, starting on Sunday, June 28 and ending on Sunday, July 5
-   - The main video must be under 1 minute in length, and must be recorded in 1 take (Endcard can be another take, as long as it contains no information)
-   
-This video was absurdly fast, even in comparison to my other videos which I intentionally make to be much faster than most. I can't emphasize enough, **please watch the video at a lower speed if this was too fast for you**. That being said, here's some more links and information
-   
-Further reading! Here are the Wikipedia pages for [Abbie Hoffman](https://en.wikipedia.org/wiki/Abbie_Hoffman), [Jerry Rubin](https://en.wikipedia.org/wiki/Jerry_Rubin), [Pigasus](https://en.wikipedia.org/wiki/Pigasus_(politics)) (who is actually pretty interesting but got shunted to about a second of joke within the video), and the [National Mobilization Committee to End the War in Vietnam](https://en.wikipedia.org/wiki/National_Mobilization_Committee_to_End_the_War_in_Vietnam) who were mostly behind the March on the Pentagon. 
-   
-Abbie Hoffman was actually a really interesting guy, I fully reccommend reading more on him. I understand this page is a bit half baked, but in my defence it is the last day and I'm not yet done with audio or the thumbnail. Thanks for reading!
+[Landing Page](https://www.tailwindtoolbox.com/templates/landing-page) is an open source, generic landing page template for [Tailwind CSS](https://tailwindcss.com/) created by [Tailwind Toolbox](https://www.tailwindtoolbox.com/).
+
+![Landing Page](https://www.tailwindtoolbox.com/templates/landing-page.png)
+
+
+## Getting Started
+
+Choose one of the following options to get started:
+* [Download the latest release](https://github.com/tailwindtoolbox/Landing-Page/archive/master.zip)
+* Clone the repo: `git clone https://github.com/tailwindtoolbox/Landing-Page.git`
+* Fork the repo
+
+## Using the Template
+
+The template is just a HTML file using a full CDN hosted Tailwind CSS file.
+
+To get the best out of Tailwind CSS, you need to really start customising it.
+Take a look at our [setup guide](https://www.tailwindtoolbox.com/setup) to start tweaking!
+
+## Sites created using this template
+
+* [Pilotmail.io](https://pilotmail.io)
+* [Routepath.app](https://routepath.app)
+* [LedgerSight.com](https://ledgersight.com)
+* [AnonAddy.com](https://anonaddy.com)
+* [MentorCV.com](https://mentorcv.com)
+* [MakerMetrics.co](https://makermetrics.co)
+* [Nodewood.com](https://nodewood.com)
+* [X-Wing AI](https://xwing.app)
+
+## Bugs and Issues
+
+Have a bug or an issue with this template? [Open a new issue](https://github.com/tailwindtoolbox/Landing-Page/issues/new) here on GitHub.
+
+## Creator
+
+[Tailwind Toolbox](https://www.tailwindtoolbox.com/) was created by and is maintained by **[Amrit Nagi](https://amritnagi.info/)**, Co-owner of [Astrava.Solutions](https://astrava.solutions).
+
+* https://twitter.com/tailwindtoolbox
+* https://twitter.com/amritnagi
+* https://github.com/tailwindtoolbox
+
+Tailwind Toolbox is based on the [Tailwind CSS](https://www.tailwindcss.com/) framework created by [Adam Wathan](https://twitter.com/adamwathan), [Jonathan Reinink](https://twitter.com/reinink), [David Hemphill](https://twitter.com/davidhemphill) and [Steve Schoger](https://twitter.com/steveschoger)
+
+
+## Image Attribution
+
+[Hero vector created by freepik.com](https://www.freepik.com/free-vector/isometric-education-illustration_3940819.htm#page=1&query=isometric%20plane&position=1)
+
+Free for personal and commercial purpose with attribution
+
+## Copyright and License
+
+Copyright 2018-2020 Astrava.Solutions Ltd. Code released under the MIT license.

@@ -1,0 +1,23 @@
+{
+  "name": "tuatarian.github.io",
+  "version": "1.0.0",
+  "description": "This was part of a 1 week video challenge that I did with my friend, BattleAnimation. The challenge entailed:\r    - 1 week to make and publish the entire video, starting on Sunday, June 28 and ending on Sunday, July 5\r    - The main video must be under 1 minute in length, and must be recorded in 1 take (Endcard can be another take, as long as it contains no information)",
+  "main": "index.js",
+  "dependencies": {
+    "tailwindcss": "^1.8.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tuatarian/Tuatarian.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tuatarian/Tuatarian.github.io/issues"
+  },
+  "homepage": "https://github.com/Tuatarian/Tuatarian.github.io#readme"
+}
